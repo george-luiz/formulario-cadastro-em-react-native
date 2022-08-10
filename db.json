@@ -1,0 +1,83 @@
+{
+  "cadastro": [
+    {
+      "id": 1,
+      "nome": "George"
+    },
+    {
+      "nome": "",
+      "sobreNome": "",
+      "email": "",
+      "telefone": "",
+      "id": 2
+    },
+    {
+      "nome": "",
+      "sobreNome": "",
+      "email": "",
+      "telefone": "",
+      "id": 3
+    },
+    {
+      "imagem": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fprojeto_camera-ef37487b-0226-440f-b1b0-ca46b9a825e7/ImagePicker/e78852a1-7d1b-4a64-8ecf-0a066a834e42.jpg",
+      "nome": "George ",
+      "sobreNome": "Luiz",
+      "email": "geluiz275@gmail.com",
+      "telefone": "981635005",
+      "id": 4
+    },
+    {
+      "imagem": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fprojeto_camera-ef37487b-0226-440f-b1b0-ca46b9a825e7/ImagePicker/e78852a1-7d1b-4a64-8ecf-0a066a834e42.jpg",
+      "nome": "Teste",
+      "sobreNome": "Luiz",
+      "email": "geluiz275@gmail.com",
+      "telefone": "11981635005",
+      "id": 5
+    },
+    {
+      "imagem": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fprojeto_camera-ef37487b-0226-440f-b1b0-ca46b9a825e7/ImagePicker/44f4c4d8-6b51-48c2-830e-14656a8d2776.jpg",
+      "nome": "Teste 2",
+      "sobreNome": "Tskxkdkd",
+      "email": "gdias@magnasistemas.com.br",
+      "telefone": "1119817393939",
+      "id": 6
+    },
+    {
+      "imagem": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fprojeto_camera-ef37487b-0226-440f-b1b0-ca46b9a825e7/ImagePicker/dccdf919-bbdc-45b6-9719-0435c2b7f9c4.jpg",
+      "nome": "Teste nome",
+      "sobreNome": "Teste sobrenome ",
+      "cpf": "779.797.979-49",
+      "telefone": "(89) 98899-8979",
+      "id": 7
+    },
+    {
+      "imagem": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fprojeto_camera-ef37487b-0226-440f-b1b0-ca46b9a825e7/ImagePicker/dccdf919-bbdc-45b6-9719-0435c2b7f9c4.jpg",
+      "nome": "Teste nome",
+      "sobreNome": "Teste sobrenome ",
+      "cpf": "779.797.979-49",
+      "telefone": "(89) 98899-8979",
+      "id": 8
+    },
+    {
+      "nome": "",
+      "sobreNome": "",
+      "cpf": "",
+      "telefone": "",
+      "id": 9
+    },
+    {
+      "nome": "",
+      "sobreNome": "",
+      "cpf": "794.949.494-49",
+      "telefone": "",
+      "id": 10
+    },
+    {
+      "nome": "",
+      "sobreNome": "",
+      "cpf": "794.949.494-49",
+      "telefone": "",
+      "id": 11
+    }
+  ]
+}
